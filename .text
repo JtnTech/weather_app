@@ -1,0 +1,2 @@
+apikey = 68d5f58b4bf04bc18b1104817250111
+apiurl = `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${city}&days=7&aqi=no&alerts=no`
